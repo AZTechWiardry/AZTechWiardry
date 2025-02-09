@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aditya Zingade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityazingade896&label=Profile%20views&color=0e75b6&style=flat" alt="adityazingade896" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityazingade896" alt="adityazingade896" /></a> </p>
 
+- 🌱 I’m currently learning **AngularJS**
+
+- 📫 How to reach me **work.adityazingade896@gmail.com**
+
+- ⚡ Fun fact **I think I am learner.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-zingade-0ba863336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-zingade-0ba863336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/az_tech_wizardry?igsh=mw1uampsnxo5cjk0oq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/az_tech_wizardry?igsh=mw1uampsnxo5cjk0oq==" height="30" width="40" /></a>
 </p>
 
