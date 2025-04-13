@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31dp2c7okvvz6k5mcogjxgevvtfu">
-    <img src="https://open.spotify.com/playlist/37i9dQZF1DWTwbZHrJRIgD?si=mi55VGAhRLejtw5VOVqAIQ" width="400"/>
+    <img src="[https://open.spotify.com/playlist/37i9dQZF1DWTwbZHrJRIgD?si=mi55VGAhRLejtw5VOVqAIQ](https://spotify-recently-played-readme.vercel.app/api?user=31dp2c7okvvz6k5mcogjxgevvtfu&count=2&unique=true)" width="400"/>
   </a>
 </p>
 
