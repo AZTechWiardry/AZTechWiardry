@@ -37,6 +37,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aztechwiardry&" alt="aztechwiardry" /></p>
 
+### 🎧 What I’m Listening To
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31dp2c7okvvz6k5mcogjxgevvtfu">
+    <img src="https://open.spotify.com/user/31pdi7cabu4w3ew6eavjek6gv2pi?si=5593269277ee451c" width="400"/>
+  </a>
+</p>
 
 ----
 
