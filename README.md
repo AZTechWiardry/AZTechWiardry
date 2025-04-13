@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31dp2c7okvvz6k5mcogjxgevvtfu">
-    <img src="https://open.spotify.com/user/31pdi7cabu4w3ew6eavjek6gv2pi?si=5593269277ee451c" width="400"/>
+    <img src="https://open.spotify.com/playlist/37i9dQZF1DWTwbZHrJRIgD?si=mi55VGAhRLejtw5VOVqAIQ" width="400"/>
   </a>
 </p>
 
