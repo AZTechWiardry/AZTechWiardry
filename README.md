@@ -8,9 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aztechwiardry" alt="aztechwiardry" /></a> </p>
 
+- 🔭 I’m currently working on [Binary Code](https://github.com/AdityaPatil108/BinaryCode.git)
+
 - 🌱 I’m currently learning **PHP,React Js**
 
+- 👨‍💻 All of my projects are available at [https://aztechwiardry.github.io/Portfolio/](https://aztechwiardry.github.io/Portfolio/)
+
 - 📫 How to reach me **work.adityazingade896@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1RDyUZ6Tn0gJhJjeQXkWEtCWAmN3zlY8I1nDC0z85KsM/edit?usp=sharing](https://docs.google.com/document/d/1RDyUZ6Tn0gJhJjeQXkWEtCWAmN3zlY8I1nDC0z85KsM/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -30,6 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aztechwiardry&show_icons=true&locale=en" alt="aztechwiardry" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aztechwiardry&" alt="aztechwiardry" /></p>
+
 
 ----
 
